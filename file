@@ -64,5 +64,3 @@ String espData(String command, const int timeout, boolean debug)
   }
   return response;
 }
-[8:46 PM]
-htt
